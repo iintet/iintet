@@ -9,19 +9,19 @@
 </h1>
 
 <p align="center">
-  ✨ 3rd Year BSCS Student @ <strong>PUP Manila</strong> <br>
-  ✨ Passionate about backend systems, networks, and cybersecurity <br>
-  ✨ Currently on a personal glow-up & tech level-up journey 💪🏻💖 <br>
+  🌷 3rd Year BSCS Student @ <strong>PUP Manila</strong> <br>
+  🌷 Passionate about backend systems, networks, and cybersecurity <br>
+  🌷 Currently on a personal glow-up & tech level-up journey 💪🏻💗 <br>
 </p>
 
 ---
 
 ### 🌸 About Me 🌸  
-- 🎀 20 y/o based in Quezon City  
-- 💻 Backend dev who loves systems and logic  
-- 🌐 Exploring networking & cybersecurity fundamentals  
-- 🧠 Always planning, always growing  
-- 🌸 Soft girl aesthetic but techie at heart 🪄
+- 20 y/o based in Quezon City  
+- Backend dev who loves systems and logic  
+- Exploring networking & cybersecurity fundamentals  
+- Always learning, always growing  
+- Soft girl aesthetic but techie at heart💟
 
 ---
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 💖 What I’m Good At 💖
+### 💗 What I’m Good At 💗
 - Developing backend systems and integrating databases  
 - Designing efficient, organized data structures  
 - Creating secure and user-friendly systems  
