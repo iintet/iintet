@@ -1,15 +1,12 @@
-<img src="https://i.pinimg.com/originals/e7/37/73/e7377372f552f4c0380aa0a622e6ec83.gif" width="100%" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/OqQuVijIWBEAAAAC/aesthetic-anime.gif" alt="Aesthetic Anime GIF" />
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=36&duration=2000&pause=1500&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Princess!+%F0%9F%8E%80%F0%9F%91%B8%F0%9F%8F%BB;CS+Student+from+PUP+Manila;Networking-+Backend-+Cybersecurity;Here+to+glow+up+and+level+up+%F0%9F%8C%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=36&duration=3000&pause=1500&color=ffb6c1&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Princess!+%F0%9F%8E%80%F0%9F%91%B8%F0%9F%8F%BB;CS+Student+from+PUP+Manila;Networking-+Backend-+Cybersecurity;Here+to+glow+up+and+level+up+%F0%9F%8C%B7" alt="Typing SVG" />
   </a>
 </h1>
-
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f7/77/1a/f7771a1c94bc9f6d16e4b6f1b9d2ab7c.gif" width="120" />
-</p>
 
 <p align="center">
   ✨ 3rd Year BSCS Student @ <strong>PUP Manila</strong> <br>
