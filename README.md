@@ -11,8 +11,6 @@
   <img src="https://i.pinimg.com/originals/f7/77/1a/f7771a1c94bc9f6d16e4b6f1b9d2ab7c.gif" width="120" />
 </p>
 
-<h1 align="center">Princess C. Padauan</h1>
-
 <p align="center">
   ✨ 3rd Year BSCS Student @ <strong>PUP Manila</strong> <br>
   ✨ Passionate about backend systems, networks, and cybersecurity <br>
