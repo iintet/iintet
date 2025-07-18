@@ -111,8 +111,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fb/3e/b3/fb3eb30082a36c9307b738a22c5b1553.gif" width="250" />
-</p>
-
-<h4 align="center">✨ keep growing, keep glowing ✨</h4>
+<h3 align="center">✨ keep growing, keep glowing ✨</h3>
